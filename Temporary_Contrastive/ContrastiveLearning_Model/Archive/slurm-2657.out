@@ -1,0 +1,15 @@
+==== /home/dsk2v/PointCloud/BodyScan/FirstWorkingDraft/ContrastiveLearning_Model
+/home/dsk2v/PointCloud/BodyScan/FirstWorkingDraft/DataLoader/../../../Data/3dbsf_txt/
+/home/dsk2v/PointCloud/Data/3dbsf_txt
+The minimum number of lines among all files: 51177
+The maximum number of lines among all files: 63051
+/home/dsk2v/PointCloud/BodyScan/FirstWorkingDraft/DataLoader/../../../Data/3dbsf_txt/
+validation_data 10200
+Epoch [1/2], Progress: 1/1, Train Loss: 3.4665, ContrastiveAccuracy:  0.0312Epoch [1/2], Progress: 1/1, Train Loss: 3.4665, Train ContrastiveAccuracy: 0.0312, Val Loss: 3.4657, Val ContrastiveAccuracy: 0.0312
+Epoch [2/2], Progress: 1/1, Train Loss: 3.4692, ContrastiveAccuracy:  0.0312Epoch [2/2], Progress: 1/1, Train Loss: 3.4692, Train ContrastiveAccuracy: 0.0312, Val Loss: 3.4657, Val ContrastiveAccuracy: 0.0312
+Validation accuracy: 0.03125000 0.03125000
+Train accuracy: 0.03125000 0.03125000
+Validation Loss: 3.46574974 3.46570826
+Train Loss: 3.46648216 3.46922874
+Details: embed_dim = 32 num_heads = 16 num_induce = 64 stack = 3 dropout = 0.05 batch_size = 32 subsample_size = 32 projection_dim = 1024
+Total time: 28.36046004295349 seconds

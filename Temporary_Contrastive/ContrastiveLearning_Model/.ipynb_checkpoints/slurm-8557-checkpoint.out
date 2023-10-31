@@ -1,0 +1,8 @@
+/var/spool/slurm/d/job08557/slurm_script:104: UserWarning: No data for colormapping provided via 'c'. Parameters 'cmap' will be ignored
+  ax.scatter(*t0.T, cmap='viridis',s=0.1)
+/var/spool/slurm/d/job08557/slurm_script:119: UserWarning: No data for colormapping provided via 'c'. Parameters 'cmap' will be ignored
+  ax.scatter(*t1.T, cmap='viridis',s=0.1)
+/var/spool/slurm/d/job08557/slurm_script:131: UserWarning: No data for colormapping provided via 'c'. Parameters 'cmap' will be ignored
+  ax.scatter(*t0.T, cmap='viridis',s=0.1)
+/var/spool/slurm/d/job08557/slurm_script:142: UserWarning: No data for colormapping provided via 'c'. Parameters 'cmap' will be ignored
+  ax.scatter(*t1.T, cmap='viridis',s=0.1)
